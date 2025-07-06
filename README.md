@@ -61,9 +61,7 @@ To build a spam classifier using **Naive Bayes** or **SVM**, and deploy it throu
     ```
     http://127.0.0.1:5000/
     ```
----
-## 🌐 Live Hosted App
-👉 [Click here to use the app](https://email-spam-detector-am60.onrender.com)
+
 
 ## 📁 Project Structure
  
@@ -106,7 +104,7 @@ To build a spam classifier using **Naive Bayes** or **SVM**, and deploy it throu
 
 ## 👨‍💻 Developed By
 
-**Anant Kiranmauli**  
+**NIRANJAN KUMAR**  
 🎓 Electrical Engineering Student  
 📍 Government Polytechnic, Munger  
 🧠 Interests: Coding, Logic, and Engineering Applications
