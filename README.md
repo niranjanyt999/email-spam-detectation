@@ -1,7 +1,10 @@
+## 🔗 Live Demo
 
-🔗 Live Demo
 You can check out the live version of the project here:
-👉 Email Spam Detection Web App
+👉 [Email Spam Detection Web App](https://email-spam-detectation.onrender.com)
+
+---
+
 
 # 📧 Email Spam Detection – ML Project
 
