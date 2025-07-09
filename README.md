@@ -1,4 +1,8 @@
 
+🔗 Live Demo
+You can check out the live version of the project here:
+👉 Email Spam Detection Web App
+
 # 📧 Email Spam Detection – ML Project
 
 A lightweight web app that classifies emails as **Spam** or **Ham** using Machine Learning.
