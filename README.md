@@ -97,7 +97,8 @@ To build a spam classifier using **Naive Bayes** or **SVM**, and deploy it throu
 > - "Congratulations! You’ve won ₹1,00,000. Click here to claim!"  
 > - "Your bank account has been blocked. Login here to fix it: fake-link.com"
 
-![Spam Classifier Output](screenshots/spam.png)
+![Spam Classifier Output](creenshot 2025-07-09 070334.png
+Screenshot 2025-07-09 070400.pn)
 
 
 ---
